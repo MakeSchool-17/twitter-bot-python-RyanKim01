@@ -1,9 +1,0 @@
-apple
-banana
-cat
-dog
-elephant
-fog
-goat
-horse
-idiot

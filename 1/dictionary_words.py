@@ -2,7 +2,7 @@ import random
 import sys
 
 
-with open('words_sample.txt', 'r') as words:
+with open('/usr/share/dict/words', 'r') as words:
     readWords = words.read().split('\n')
 
 
